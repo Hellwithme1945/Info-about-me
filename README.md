@@ -1,4 +1,4 @@
 # Коротко обо мне 
 Меня зовут Максим, мне 25 лет и я работаю в сфере государственных закупок. 
 Так я выгляжу на **самом деле**:
-![Мое фото]("C:\Users\firer\Desktop\raian-gosling-12-1.webp")
+![Мое фото](https://photopole.ru/wp-content/uploads/raian-gosling-12-1.webp)
